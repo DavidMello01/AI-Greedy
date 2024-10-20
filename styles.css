@@ -35,7 +35,7 @@ svg {
 }
 
 .highlight {
-    fill: #ff0000 !important; /* Destaque em vermelho */
+    fill: #ff0000 !important;
 }
 
 #log {
@@ -61,9 +61,9 @@ svg {
     color: #fff;
     font-size: 14px;
 }
-
+/*pra animacao*/
 .highlight {
     fill: #ffcc00; /* Cor de destaque */
-    transition: fill 0.5s ease; /* Transição suave */
+    transition: fill 0.5s ease; 
 }
 
